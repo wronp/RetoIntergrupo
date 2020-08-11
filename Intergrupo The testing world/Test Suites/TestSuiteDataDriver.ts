@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Adding the data from a excel file.</description>
+   <name>TestSuiteDataDriver</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f29319ff-228c-4312-a68e-ebe576a19946</testSuiteGuid>
+   <testCaseLink>
+      <guid>830a27bd-a771-4e13-95f8-f705b5fd6873</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/UsersAccountCreation</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6156bdf1-e277-4d73-bbac-23f61e58d46d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/UsersData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>6156bdf1-e277-4d73-bbac-23f61e58d46d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Users</value>
+         <variableId>9a9f3a22-01c7-4de1-8b31-4e8f47fe638f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6156bdf1-e277-4d73-bbac-23f61e58d46d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>af3fc3fc-6b2f-408b-a38d-3ee16dfd1bb0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6156bdf1-e277-4d73-bbac-23f61e58d46d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>068c76d3-468c-44a4-9150-95f91a8d90a4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6156bdf1-e277-4d73-bbac-23f61e58d46d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ComparePassword</value>
+         <variableId>914c1f81-9b85-41a1-b776-292808e102f5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

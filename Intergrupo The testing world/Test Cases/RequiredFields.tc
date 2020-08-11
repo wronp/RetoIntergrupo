@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing the behavior of the required fields.</description>
+   <name>RequiredFields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8dcaba7-d3c7-4463-af35-7f911e4a0034</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e8a751df-0936-4663-ae7c-d2f74fe8f8ef</id>
+      <masked>false</masked>
+      <name>Users</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fcf61155-98f9-4fb0-a955-26b906fa665e</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e937497f-1478-409a-9993-dba97a61322e</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34f6b6f2-d464-4599-a903-d3cfa48a7606</id>
+      <masked>false</masked>
+      <name>ComparePassword</name>
+   </variable>
+</TestCaseEntity>

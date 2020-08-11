@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the window with the Terms and Conditions.</description>
+   <name>TermsAndConditions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>855de9df-531d-4681-adb3-7e86f237921a</testCaseGuid>
+</TestCaseEntity>

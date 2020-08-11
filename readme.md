@@ -1,0 +1,1 @@
+Desarrollo de automatización de la pagina web thetestingworld como prueba para la compañia Intergrupo en el IDE de Katalon Studio.

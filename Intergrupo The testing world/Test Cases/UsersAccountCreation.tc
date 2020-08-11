@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Creation the users accounts.</description>
+   <name>UsersAccountCreation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd3fe193-052e-4acc-b6c6-64a4132b2e4f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a9f3a22-01c7-4de1-8b31-4e8f47fe638f</id>
+      <masked>false</masked>
+      <name>Users</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af3fc3fc-6b2f-408b-a38d-3ee16dfd1bb0</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>068c76d3-468c-44a4-9150-95f91a8d90a4</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>914c1f81-9b85-41a1-b776-292808e102f5</id>
+      <masked>false</masked>
+      <name>ComparePassword</name>
+   </variable>
+</TestCaseEntity>

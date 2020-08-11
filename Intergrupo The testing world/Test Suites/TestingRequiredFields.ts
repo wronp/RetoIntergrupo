@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Testing the email field empty.</description>
+   <name>TestingRequiredFields</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f90cd2f9-fec5-4e7f-90ca-4e23bb40fa68</testSuiteGuid>
+   <testCaseLink>
+      <guid>9e618865-b4ab-451c-bb07-82814b9a74cd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RequiredFields</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>035fa72c-b894-4708-9bb1-cb980775fddb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/UsersData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>035fa72c-b894-4708-9bb1-cb980775fddb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Users</value>
+         <variableId>e8a751df-0936-4663-ae7c-d2f74fe8f8ef</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>035fa72c-b894-4708-9bb1-cb980775fddb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>fcf61155-98f9-4fb0-a955-26b906fa665e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>035fa72c-b894-4708-9bb1-cb980775fddb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>e937497f-1478-409a-9993-dba97a61322e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>035fa72c-b894-4708-9bb1-cb980775fddb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ComparePassword</value>
+         <variableId>34f6b6f2-d464-4599-a903-d3cfa48a7606</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,42 @@
+Realizar la automatización bajo los siguientes requerimientos: 
+
+Página: https://thetestingworld.com/testings/
+
+Registro de Usuario
+
+    - Realizar el registro de N usuarios.
+    - Controlar las validaciones existentes (Campos requeridos, Formatos tipos, Información ingresada no correcta en contraseñas).
+    - Visualizar términos y condiciones.
+
+Como puntos extra:
+
+Iniciar sesión
+
+    - Realizar el inicio de sesión de los usuarios Registrados.
+    - Controlar las validaciones existentes (Campos requeridos, información invalida).
+    - Almacenar información.
+
+Precondiciones:
+
+    - Herramienta Katalon Studio.
+    - Se debe aplicar con la metodología BDD.
+    - Implementar POM. (deseable)
+    - Generar reportes.
+    - Las pruebas deben ser con set de datos dinámicos.
+    - Hacer un archivo indicando la explicación de la implementación, instalación y ejecución de la solución.
+
+
+
+Implementacion:
+
+	- Se realizo la descarga del IDE de Katalon Studio desde la pagina oficial.
+	- Cambio de puerto del IDE.
+	- Instalacion del plugin de Katalon en el navegador de Chrome.
+	- Durante unas horas se hizo un estudio de la herramienta.
+	- Se creo un proyecto nuevo.
+	- Comenze creando un test haciendo una prueba de reconocimiento de la pagina web.
+	- Se implemento un Data Driver con la informacion necesario para crear los usuarios.
+	- Implemente un Test Suite para hacer la primera prueba del Data Driver.
+	- Cree el primer Verify Element Text para validar el mensaje de error al no poder crear un usuario.
+	- Se le agregaron validaciones a cada uno de los Test para corroborar su resultado.
+	- Por ultimo se sube a un repositorio el codigo.
